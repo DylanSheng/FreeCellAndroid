@@ -11,13 +11,65 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_width="0dp">
-
         </RelativeLayout>
         <RelativeLayout
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_width="0dp">
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/Tableau"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
 
+        <RelativeLayout
+            android:id="@+id/TableauColumn_1"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_2"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_3"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_4"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_5"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_6"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_7"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/TableauColumn_8"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1">
         </RelativeLayout>
     </LinearLayout>
 </LinearLayout>
